@@ -106,7 +106,7 @@
 
 <div class="font-inter">
     <div
-        class="fixed z-0 w-screen flex text-xs gap-2 bg-[url(image/bg.jpg)] bg-cover bg-no-repeat bg-center overflow-hidden opacity-60"
+        class="fixed z-0 w-screen flex text-xs gap-2 bg-[url(/image/bg.jpg)] bg-cover bg-no-repeat bg-center overflow-hidden opacity-60"
     >
         {#each Array(40) as _, i}
             <div class="flex-grow bg-base-100 px-1">
